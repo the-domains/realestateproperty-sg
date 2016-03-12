@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Your Trusted Housing Partner in Your Estate
-datePublished: '2016-03-12T18:57:18.674Z'
-dateModified: '2016-03-12T18:57:09.892Z'
+description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Your Trusted Housing Partner in Your Estate"
+datePublished: '2016-03-12T18:58:59.356Z'
+dateModified: '2016-03-12T18:57:24.946Z'
 title: ERA Marketing Director
 author: []
+sourcePath: _posts/2016-03-12-era-marketing-director.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-era-marketing-director.md
-published: true
 url: era-marketing-director/index.html
 _type: Article
 
