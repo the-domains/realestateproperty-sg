@@ -1,0 +1,28 @@
+name: realestateproperty.sg
+favicon: null
+layout_spectrum: 0.9344345561694354
+typography_spectrum: 0.8646651641465724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9784512920305133
+  lightness: 0.4990150381345302
+  saturation: 0.3866494186222553
+  rhythmicContrast: 0.30076850834302604
+purpose: []
