@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Your Trusted Housing Partner in Your Estate"
-datePublished: '2016-03-12T19:39:05.747Z'
-dateModified: '2016-03-12T19:38:50.481Z'
+datePublished: '2016-03-13T02:07:18.710Z'
+dateModified: '2016-03-13T02:07:01.584Z'
 title: ERA Marketing Director
 author: []
 sourcePath: _posts/2016-03-12-era-marketing-director.md
